@@ -1,0 +1,14 @@
+VendorController class => 100 Minute
+DishController class => 50 Minute
+OrderController class => 80 Minute
+
+VendorRequest class => 5 Minute
+DishRequest class => 1.5 Minute
+OrderRequest class => 2 Minute
+
+Vendor class => 2.5 Minute
+Vendor class => 2.5 Minute
+Order class => 2.5 Minute
+OrderList class => 2.5 Minute
+
+Migration => 1 Minute every new table
